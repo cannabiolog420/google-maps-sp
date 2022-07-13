@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/mthole/GoogleMaps-SP/releases/download/6.1.1-universal/GoogleMaps.xcframework.zip",
-            checksum: "490f79815a41b45deaf6ca3fd744f487d9dfe0182f0d58fe9c60cdcbe706c6d4"
+            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/6.2.1-universal/GoogleMaps.xcframework.zip",
+            checksum: "94b529f0320ac59e14009bf578b7855d3c437ce6de0e2619502afd3c50301620"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/mthole/GoogleMaps-SP/releases/download/6.1.1-universal/GoogleMapsBase.xcframework.zip",
-            checksum: "68c31db3317caa0dd531aeb9c2b31fd8b92753158400a37189b4d31af007e842"
+            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/6.2.1-universal/GoogleMapsBase.xcframework.zip",
+            checksum: "a3cec21a5d2e5d38d5ff0a2dc5b901113f330f36f0d19320489ccabbb318b47e"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/mthole/GoogleMaps-SP/releases/download/6.1.1-universal/GoogleMapsCore.xcframework.zip",
-            checksum: "3bdc93bfba83967c28d7c7885ec1a6de9bfe5a2178e0785e378d664d440f1d8b"
+            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/6.2.1-universal/GoogleMapsCore.xcframework.zip",
+            checksum: "58758af0e1b2085a49bd307e03b84313924ed460c63f4d5fe04d8a366393be34"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/mthole/GoogleMaps-SP/releases/download/6.1.1-universal/GoogleMapsM4B.xcframework.zip",
-            checksum: "6e1253f8ad0524fafe7acf3a4de09207d1b1d656fb473feb56c9520ba9fec9e1"
+            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/6.2.1-universal/GoogleMapsM4B.xcframework.zip",
+            checksum: "67c474ce836d2b0bbc33af396566ab09fa60ff4d50672d0f07f606b5f7bfbd8b"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/mthole/GoogleMaps-SP/releases/download/6.1.1-universal/GooglePlaces.xcframework.zip",
-            checksum: "d764794a07fbdc387fb59d7bb0aee0d44c2b8d7bc962a1e13d7f36c7efd435d9"
+            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/6.2.1-universal/GooglePlaces.xcframework.zip",
+            checksum: "71ca0c78e26b647a3d3b883ed9891152b71373b2aa71f62b7897de56497684f3"
         )
     ]
 )
