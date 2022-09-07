@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/7.0.0-universal/GoogleMaps.xcframework.zip",
-            checksum: "05b5f7cef5c3c2f204e021304f1507520f50aa0851582a13ee0b7deeea2c819f"
+            url: "https://github.com/cannabiolog420/google-maps-sp/releases/download/7.0.0/GoogleMaps.xcframework.zip",
+            checksum: "9cc0dcb4fd964249da60411c339e29f0ae1dee8cd8a33714f555ddbef2c405af"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/7.0.0-universal/GoogleMapsBase.xcframework.zip",
-            checksum: "7c8c931a21f433b78a249b189cb877544acc586ef3e25da04642c535dfba31eb"
+            url: "https://github.com/cannabiolog420/google-maps-sp/releases/download/7.0.0/GoogleMapsBase.xcframework.zip",
+            checksum: "341a559f83880531bbd4909d97d2c6ade11ed82758745ceeabb346c9cf000cb9"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/7.0.0-universal/GoogleMapsCore.xcframework.zip",
-            checksum: "14a9b5c44865945a20094f4082565727d4822dc8fb418067fc55dbef0ac25ed2"
+            url: "https://github.com/cannabiolog420/google-maps-sp/releases/download/7.0.0/GoogleMapsCore.xcframework.zip",
+            checksum: "0d33e44faa80b7d6104ceacdcc3cc94715ee7e28778489797f2cef3fe67451f7"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/7.0.0-universal/GoogleMapsM4B.xcframework.zip",
-            checksum: "275627d38f8a26f1554d6fc68b800f4449f7d23b6fbeab0c7beed611094c7c9b"
+            url: "https://github.com/cannabiolog420/google-maps-sp/releases/download/7.0.0/GoogleMapsM4B.xcframework.zip",
+            checksum: "4c10de3b5d0da86c58e62bcfbb9d3f439c8ae60196e161984eb05896107db5a3"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/MichiganLabs/GoogleMaps-SP/releases/download/7.0.0-universal/GooglePlaces.xcframework.zip",
-            checksum: "3ceef0d4c3297caea93d2f7ed062cfe5e57e50678f86192ab5f21bb3dc2c5838"
+            url: "https://github.com/cannabiolog420/google-maps-sp/releases/download/7.0.0/GooglePlaces.xcframework.zip",
+            checksum: "d2cdd1833ddaf2cf17e87f80e39fc30c6e9a0f7885fa6514566a22665142c545"
         )
     ]
 )
